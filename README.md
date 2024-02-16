@@ -4,3 +4,4 @@
 ![image](https://github.com/Neeru2001/Image-Steganography-using-Cryptography/assets/141095490/2a1a103a-06a6-44ce-8f9e-613b8183e4f1)
 ![image](https://github.com/Neeru2001/Image-Steganography-using-Cryptography/assets/141095490/6efcc764-a59a-4dcd-8867-5a516736267f)
 ![image](https://github.com/Neeru2001/Image-Steganography-using-Cryptography/assets/141095490/f59e7169-b3b8-4566-915f-2a64e2f27cc6)
+![image](https://github.com/Neeru2001/Image-Steganography-using-Cryptography/assets/141095490/de38cbfa-e5c2-47ad-8cc5-4c05ffce79d2)
